@@ -1,0 +1,6 @@
+streamlit
+pandas
+requests
+fyers-apiv3
+streamlit-autorefresh
+python-dotenv
